@@ -1,0 +1,58 @@
+https://www.bigocheatsheet.com/
+
+Time and Space Complexity
+
+Time Complexity (need to get the relationship between input and time).
+    we want to evaluate teh algorithm,evaluate teh scalability,interms of the input size
+
+
+
+1.Measuring the Time To Execute--won't used in the industry
+    using the import time --time.time() and the end time.time() can do the time measuring.
+    while was faster than the for loop in python
+    No relation will come to establsh the relation between input and the time
+    Based on the system operations everything will change.
+    differnt time for different algorithm
+2.Counting the Operations involved
+    The no of operations executed as funciton of size of input.
+    Different machines same time.
+    differnt time for different algorithm.
+    Can establish a relation between teh time and the input.
+3.Abstract notation of order of Growth
+    Big O Notation measures the upper bound on the asymptotic growth,often called order of Growth.
+    Big Oh or O() used to describe the worst case.(bottleneck of the program).
+        Express rate of growth of the programm w.r.to input size
+        evaluate algorithmic not machine or implementation.
+    
+    def fact(n):
+        answer =1 -- 1 opertion
+        while n>1:-- 1 opertion
+            answer*=n -- 2 opertion
+            n-=1 -- 2 opertion
+        return answer
+    
+    the Above expression would be 1+5n
+    Remove the additive constants,multiplative constants,largest factors then we will get the big oh notation from the operation expression
+    0(n) ---means linear  .so the graph means input and time will be linear.
+    n@2+2n+2 -- O(n@2) - quadratic relation with input and time.
+    n@2+100000n+ 3@10000 -- O(n@2)
+    log(n)+n+4 -- O(n)
+    1000nLog(n)+n -- O(log(n))
+Types of Order or growth are 
+x-input ,y --time
+Constant(for every input the time will be constant)--parallel to x axis
+liner(for same input same time increment)--45degree line
+quadratic(parabolic lin)
+lograthmic (reverse parabolic)
+nlogN(bottom x and sam eas parabolic)
+expoential(some what parabolic)
+
+
+
+
+--
+
+Space Complexity --
+1billion -- 100 crores
+1024kb-1mb
+1024mb-1gb
