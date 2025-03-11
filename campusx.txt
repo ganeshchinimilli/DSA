@@ -1,0 +1,120 @@
+Week 1: Basics & Arrays
+🎯 Focus: Understanding the core of DSA, time complexity, and arrays.
+📌 Day 1:
+✅ Learn Big O Notation (Time & Space Complexity)
+✅ Practice basic complexity analysis
+
+🔗 Big O Cheat Sheet
+
+📌 Day 2:
+✅ Arrays:
+
+1D & 2D Arrays
+Common operations: insert, delete, search
+Two-pointer technique
+✅ Solve:
+
+Two Sum (Easy)
+Best Time to Buy and Sell Stock (Easy)
+📌 Day 3:
+✅ Sliding Window & Prefix Sum
+✅ Solve:
+
+Maximum Subarray (Medium)
+Longest Substring Without Repeating Characters (Medium)
+📌 Day 4:
+✅ Matrix Problems (2D Arrays)
+✅ Solve:
+
+Set Matrix Zeroes
+Rotate Image
+📌 Day 5 - 6:
+✅ Sorting Algorithms (Selection, Bubble, Merge, Quick Sort)
+✅ Solve:
+
+Merge Intervals
+📌 Day 7:
+✅ Revise all topics
+✅ Attempt 5 random array problems
+
+📅 Week 2: Linked Lists & Stacks
+🎯 Focus: Mastering Linked Lists & Stacks
+📌 Day 8:
+✅ Singly Linked List (Insert, Delete, Reverse)
+✅ Solve:
+
+Reverse Linked List
+📌 Day 9:
+✅ Doubly Linked List
+✅ Solve:
+
+Add Two Numbers
+📌 Day 10:
+✅ Stacks (LIFO) & Queues (FIFO)
+✅ Solve:
+
+Valid Parentheses
+📌 Day 11:
+✅ Monotonic Stack
+✅ Solve:
+
+Daily Temperatures
+📌 Day 12 - 13:
+✅ Recursion & Backtracking
+✅ Solve:
+
+Generate Parentheses
+📌 Day 14:
+✅ Mock Interview on Linked Lists & Stacks
+
+📅 Week 3: Trees & Graphs
+🎯 Focus: Understanding Trees, Binary Search Trees & Graphs
+📌 Day 15:
+✅ Binary Trees & DFS (Preorder, Inorder, Postorder)
+✅ Solve:
+
+Binary Tree Inorder Traversal
+📌 Day 16:
+✅ Binary Search Trees (BST) & BFS
+✅ Solve:
+
+Lowest Common Ancestor of BST
+📌 Day 17 - 18:
+✅ Graphs & BFS/DFS
+✅ Solve:
+
+Number of Islands
+📌 Day 19 - 20:
+✅ Heaps (Min-Heap & Max-Heap)
+✅ Solve:
+
+Top K Frequent Elements
+📌 Day 21:
+✅ Mock Interview on Trees & Graphs
+
+📅 Week 4: Dynamic Programming & Advanced Topics
+🎯 Focus: DP, Greedy, Tries, and Revising Everything
+📌 Day 22:
+✅ Introduction to DP (Memoization & Tabulation)
+✅ Solve:
+
+Climbing Stairs
+📌 Day 23 - 24:
+✅ DP on Strings (LCS, Edit Distance)
+✅ Solve:
+
+Longest Palindromic Substring
+📌 Day 25 - 26:
+✅ Greedy Algorithms
+✅ Solve:
+
+Jump Game
+📌 Day 27:
+✅ Tries (Prefix Trees)
+✅ Solve:
+
+Implement Trie
+📌 Day 28:
+✅ Final Revision & Mock Interview
+✅ Solve 10 random medium-hard problems
+
